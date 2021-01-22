@@ -1,0 +1,13 @@
+div {
+    height: 210px;
+    background-color: hsl(352, 66%, 74%);
+    padding: 30px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+body {
+    background-color: #d89fb2;
+}
